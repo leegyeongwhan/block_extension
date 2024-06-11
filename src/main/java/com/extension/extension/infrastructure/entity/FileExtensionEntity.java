@@ -22,7 +22,7 @@ public class FileExtensionEntity {
     private String name;
 
     @Builder
-    protected FileExtensionEntity(String name) {
+    public FileExtensionEntity(String name) {
         this.name = name;
     }
 }

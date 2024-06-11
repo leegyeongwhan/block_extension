@@ -1,4 +1,4 @@
-package com.extension.extension.infrastructure.repositroy;
+package com.extension.extension.infrastructure.repository;
 
 import com.extension.extension.infrastructure.entity.FileCustomExtensionEntity;
 import org.springframework.data.jpa.repository.JpaRepository;
